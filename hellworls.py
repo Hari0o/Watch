@@ -35,6 +35,6 @@
 import os
 os.remove('D:\\Untitled1.txt')
 
-git remote add origin https://github.com/Hari0o/test1.git
-git branch -M main
-git push -u origin main
+# git remote add origin https://github.com/Hari0o/test1.git
+# git branch -M main
+# git push -u origin main
